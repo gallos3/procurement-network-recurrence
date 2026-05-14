@@ -73,8 +73,8 @@ This dataset corresponds to the final analytical outputs reported in the study.
 
 ### 🛠️ Installation
 
-Clone the repository and install dependencies:
 ```bash
+git clone https://github.com/gallos3/procurement-network-recurrence.git
 cd your-repo
 pip install -r requirements.txt
 python train_from_parquet.py
