@@ -59,6 +59,9 @@ The processed dataset and full set of model outputs used in this study are avail
 
 👉 (https://doi.org/10.5281/zenodo.20175804)
 
+⚠️ The dataset is not included in this repository.  
+Please download the file `recurrence_feature_matrix.parquet` from Zenodo and place it in the project root before running the scripts.
+
 The repository includes:
 
 - Processed feature matrix used for model training  
